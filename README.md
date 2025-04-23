@@ -1,5 +1,5 @@
 <h1>👋 <strong>Hi, I'm Akshay Pande</strong></h1>
-  <p>Welcome to my professional portfolio!</p>
+  
 
   <h2>📌 <strong>About Me</strong></h2>
   <p>
