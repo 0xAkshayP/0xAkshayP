@@ -13,7 +13,7 @@
     <li>CyberWings Security LLP – Security Analyst (May 2021 – Sep 2022)</li>
     <li>Maharashtra Cyber – Jr. Cyber Security Analyst (Jun 2020 – May 2021)</li>
     <li>Bugcrowd – Security Researcher (Mar 2020 – Apr 2021)</li>
-    <li>Tesco – Retail & Inventory Assistant</li>
+    <li>Tesco – Retail & Inventory Assistant (Retail support role during Masters studies)</li>
   </ul>
 
   <h2>🎓 <strong>Education</strong></h2>
