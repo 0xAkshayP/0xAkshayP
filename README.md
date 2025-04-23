@@ -1,8 +1,7 @@
 👋 Hi, I'm Akshay Pande
 
 
-
-📌 About Me
+📌 About Me 
 
 I’m a cybersecurity professional with over 3 years of hands-on experience in Penetration Testing, threat analysis, and security operations. My background includes a Bachelor's in Information Technology, a Master's in Computer Forensics and Cybersecurity from the UK, and multiple certifications in Cyber Security. I'm driven by a mission to make the digital world safer through practical, scalable solutions.
 
@@ -52,15 +51,19 @@ Hall of Fame – ISSUU Responsible Disclosure Program
 
 🚀 Projects
 
+
+
 Cybersecurity Labs – Custom labs and write-ups covering penetration testing, SIEM configurations, and incident response.
 
 TryHackMe CTFs – 3 years of participation in Capture The Flag exercises.
+
+
 
 📫 Connect with Me
 
 LinkedIn
 
-Email: akshaypande1@outlook.com
+Email: akshaypande996@gmail.com
 
 Thanks for checking out my portfolio!
 
